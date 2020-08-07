@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 🌍
 
-<!--
-**thacherT1D/thacherT1D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Thacher (she/her). 
 
-Here are some ideas to get you started:
+I am a frontend developer and UX designer, currently working mostly in React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at [Tidepool](http://www.tidepool.org) as a UX Engineer. For more information about my experience you can checkout my [LinkedIn Profile](http://www.linkedin.com/in/thacherhussain) or [thacher.co](http://www.thacher.co)
+
+You can reach me on Twitter [@thacherT1D](http://www.twitter.com/thacherT1D) or by email at [thacherT1d@gmail.com](mailto:thacherT1d@gmail.com)
+
+Ask me about... learning React, going to/graduating from a software development bootcamp, working in the healthcare industry, diabetes technology, coffee, or my adorable tripod dog
+
+Random Fact: My signature PR review sign-off is "LGTM 🦄"
