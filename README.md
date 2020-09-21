@@ -6,7 +6,7 @@ I am a frontend developer and UX designer, currently working mostly in React.
 
 I work at [Tidepool](http://www.tidepool.org) as a UX Engineer. For more information about my experience you can checkout my [LinkedIn Profile](http://www.linkedin.com/in/thacherhussain) or [thacher.co](http://www.thacher.co)
 
-You can reach me on Twitter [@thacherT1D](http://www.twitter.com/thacherT1D) or by email at [thacherT1d@gmail.com](mailto:thacherT1d@gmail.com)
+You can reach me on Twitter [@thacherhussain](http://www.twitter.com/thacherhussain) or by email at [thacher.hussain@gmail.com](mailto:thacher.hussain@gmail.com)
 
 Ask me about... learning React, going to/graduating from a software development bootcamp, working in the healthcare industry, diabetes technology, coffee, or my adorable tripod dog
 
