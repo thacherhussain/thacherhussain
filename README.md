@@ -2,11 +2,11 @@
 
 Hi! I'm Thacher (she/her). 
 
-I am a frontend developer and UX designer, currently working mostly in React.
+I am a frontend developer and UX designer, working mostly in React.
 
 I'm currently open for work as a Frontend/UX Engineer. I just wrapped up working as a Frontend/UX Engineer at [Tidepool](http://www.tidepool.org).  For more information about my experience you can checkout my [LinkedIn Profile](http://www.linkedin.com/in/thacherhussain) or [thacher.co](http://www.thacher.co)
 
-I'm also available as a mentor on [mentorcruise.com](https://mentorcruise.com/mentor/ThacherHussain/), have worked as an instructor at [Galvanize](https://www.galvanize.com/web-development) for the Software Engineering Immersive Bootcamp, and as an adjunct professor at the University of Washington teaching Data Analytics and Visualization. 
+I'm also available as a mentor on [mentorcruise.com](https://mentorcruise.com/mentor/ThacherHussain/), and previously worked as an instructor at [Galvanize](https://www.galvanize.com/web-development) for the Software Engineering Immersive Bootcamp.
 
 You can reach me on Twitter [@thacherhussain](http://www.twitter.com/thacherhussain) or by email at [thacher.hussain@gmail.com](mailto:thacher.hussain@gmail.com)
 
